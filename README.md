@@ -49,7 +49,6 @@ pip install fastapi uvicorn python-jose pydantic
 
 # Navigate to the frontend folder
 cd frontend
-cd image-management-app
 npm install
 Run the backend and frontend separately:
 
